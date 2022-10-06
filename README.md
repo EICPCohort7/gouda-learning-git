@@ -4,4 +4,4 @@
 - Jaana Tabalon
 - Prathima Reddy
 - Jared Marston
-- John Emerson
+- [John Emerson](john-emerson.md)
