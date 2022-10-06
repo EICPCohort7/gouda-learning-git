@@ -1,7 +1,7 @@
 # gouda-learning-git
 
 
-- Jaana Tabalon
+- [Jaana Tabalon](jaana-tabalon.md)
 - Prathima Reddy
 - Jared Marston
 - John Emerson
